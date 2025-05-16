@@ -19,7 +19,7 @@ I'm Raúl Silva (literally the dog of the picture). I love memes, to play TCGs, 
 
 ## Social media
 <ul>
-  <li><a href="https://www.instagram.com/rauwul/"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style='width: 16px;' /> Instagram </a>
+  <li><a href="https://www.instagram.com/rauwux/"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style='width: 16px;' /> Instagram </a>
   <li><a href="https://www.linkedin.com/in/raúl-silva-astudillo-017247247/"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style='width: 16px;' /> LinkedIn </a>
 </ul>
 
